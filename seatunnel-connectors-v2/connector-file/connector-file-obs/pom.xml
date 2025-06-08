@@ -74,7 +74,7 @@
     <repositories>
         <repository>
             <id>huaweiCloud</id>
-            <url>https://repo.huaweicloud.com/repository/maven/huaweicloudsdk/</url>
+            <url>https://mirrors.huaweicloud.com/repository/maven/huaweicloudsdk/</url>
         </repository>
     </repositories>
 </project>
